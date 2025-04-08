@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently pursuing a Bachelor of Science in Computer Science degree.
+I am currently pursuing a Bachelor of Science in Computer Science.
 
 I've mainly been doing web development (Vue); building websites for businesses, organizations, and personal projects. 
 I'm also interested in low-level software (thanks to my Assembly class).
