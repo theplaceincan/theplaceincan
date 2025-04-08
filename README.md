@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am currently pursuing a Bachelor of Science in Computer Science degree.
+
+I've mainly been doing web development (Vue); building websites for businesses, organizations, and personal projects. 
+I'm also interested in low-level software (thanks to my Assembly class).
+
+
 <!--
 **theplaceincan/theplaceincan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
