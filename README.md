@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently pursuing a Bachelor of Science in Computer Science.
+I am currently pursuing a Bachelor of Science in Computer Science, with interests in full-stack development and low-level projects.
 <!--
 **theplaceincan/theplaceincan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
