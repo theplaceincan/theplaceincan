@@ -2,10 +2,8 @@
 
 I am currently pursuing a Bachelor of Science in Computer Science, with interests in full-stack development, low-level systems, and aviation.
 
-I'm familiar with:
-- C++, JavaScript, TypeScript, x86-64, and HTML/CSS
-I've used:
-- Python, C, Rust, and Lua
+- I'm familiar with: C++, JavaScript, TypeScript, x86-64, and HTML/CSS
+- I've used: Python, C, Rust, and Lua
 
 <!--
 **theplaceincan/theplaceincan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
