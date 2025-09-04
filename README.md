@@ -1,10 +1,15 @@
-## Hi there 👋
+<div align="center">
+<!--   <img src="https://your-banner-image.com" alt="Banner" width="100%" /> -->
 
-I am currently pursuing a Bachelor of Science in Computer Science, with interests in intentional full-stack development, low-level systems (Operating Systems), and aviation.
+  # Hi there 👋  
+  I'm a **CS Student** passionate about Full-Stack Development, OS, and Aviation ✈️  
 
-- Languages I'm familiar with: `C++`, `JavaScript`, `TypeScript`
-- Languages I've used: `x86_64 Assembly`, `MIPS Assembly`, `Python`, `Lua`
-- Languages I'm learning: `Rust`, `Java`
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theplaceincan&show_icons=true&theme=tokyonight)  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theplaceincan&layout=compact&theme=tokyonight)  
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;OS+and+Kernel+Explorer;Aviation+Enthusiast)](https://git.io/typing-svg)
+</div>
+
 
 <!--
 **theplaceincan/theplaceincan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
