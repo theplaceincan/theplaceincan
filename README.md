@@ -1,8 +1,8 @@
-<div align="center">
+<div align="left">
 <!--   <img src="https://your-banner-image.com" alt="Banner" width="100%" /> -->
 
   # Hi there 👋  
-  I'm a **CS Student** passionate about Full-Stack Development, OS, and Aviation ✈️  
+  I'm a **CS Student** passionate about Full-Stack Development, Operating Systems, and Aviation ✈️  
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theplaceincan&show_icons=true&theme=tokyonight)  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theplaceincan&layout=compact&theme=tokyonight)  
