@@ -2,6 +2,10 @@
 
 I am currently pursuing a Bachelor of Science in Computer Science, with interests in intentional full-stack development, low-level systems (Operating Systems), and aviation.
 
+Languages I'm familiar with: `C++`, `JavaScript`, `TypeScript`
+Languages I've used: `x86_64 Assembly`, `MIPS Assembly`, `Python`, `Lua`
+Languages I'm learning: `Rust`, `Java`
+
 <!--
 **theplaceincan/theplaceincan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
