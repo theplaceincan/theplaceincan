@@ -5,7 +5,7 @@
   I'm a **CS Student** passionate about Full-Stack Development, Operating Systems, and Aviation ✈️  
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=theplaceincan&show_icons=true&theme=tokyonight)  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theplaceincan&layout=compact&theme=tokyonight)  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theplaceincan&hide=vue&layout=compact&theme=tokyonight)
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;OS+and+Kernel+Explorer;Aviation+Enthusiast)](https://git.io/typing-svg)
 </div>
