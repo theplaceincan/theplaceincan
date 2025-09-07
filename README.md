@@ -10,7 +10,7 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theplaceincan&hide=vue,css,makefile&layout=compact&theme=tokyonight)
   <p align="left">
-    <a href="https://skillicons.dev">
+    <a href="">
       <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,vue,next,nodejs,git" />
     </a>
   </p>
