@@ -9,5 +9,10 @@
   I'm a **CS Student** passionate about Full-Stack Development, Low-Level Systems (Operating Systems, Programming Languages), and Aviation ✈️  
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theplaceincan&hide=vue,css,makefile&layout=compact&theme=tokyonight)
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,vue,next,nodejs,git" />
+    </a>
+  </p>
 
 </div>
