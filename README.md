@@ -15,5 +15,11 @@
       <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,vue,next,nodejs,git" />
     </a>
   </p>
+  <p>I have used:</p>
+  <p align="left">
+    <a href="">
+      <img src="https://skillicons.dev/icons?i=c,java,rust,aws,react-native,react" />
+    </a>
+  </p>
 
 </div>
