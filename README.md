@@ -18,7 +18,7 @@
   <p>I have used:</p>
   <p align="left">
     <a href="">
-      <img src="https://skillicons.dev/icons?i=c,java,rust,aws,react-native,react" />
+      <img src="https://skillicons.dev/icons?i=c,java,rust,lua,aws,flutter,react" />
     </a>
   </p>
 
