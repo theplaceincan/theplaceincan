@@ -9,13 +9,16 @@
   I'm a **CS Student** passionate about Full-Stack Development, Low-Level Systems (Operating Systems, Programming Languages), and Aviation ✈️  
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theplaceincan&hide=vue,css,makefile&layout=compact&theme=tokyonight)
-  <p>I am most familiar with these technologies:</p>
+
+---
+  ### I am most familiar with these technologies:
   <p align="left">
     <a href="">
       <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,vue,next,nodejs,git" />
     </a>
   </p>
-  <p>I have also used:</p>
+
+  ### I have also used:
   <p align="left">
     <a href="">
       <img src="https://skillicons.dev/icons?i=c,java,rust,lua,aws,flutter,react" />
