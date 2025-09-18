@@ -8,8 +8,6 @@
   # Hi there 👋  
   I'm a **CS Student** interested about Full-Stack Development, Low-Level Systems (Operating Systems, Programming Languages), and Aviation ✈️  
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theplaceincan&hide=vue,css,makefile&layout=compact&theme=tokyonight)
-
 ---
   ### I am most familiar with these technologies:
   <p align="left">
