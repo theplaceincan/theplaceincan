@@ -6,7 +6,7 @@
   -->
 
   # Hi there 👋  
-  I'm a **CS Student** interested about Full-Stack Development, Low-Level Systems (Operating Systems, Programming Languages), and Aviation ✈️  
+  I'm a **CS Student** interested about Full-Stack Development, Low-Level Systems, and Aviation ✈️  
 
 ---
   ### I am most familiar with these technologies:
