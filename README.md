@@ -5,6 +5,6 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Operating+Systems+Explorer;Aviation+Enthusiast)](https://git.io/typing-svg)
   -->
 
-  ### Hi there 👋  
+Learning is a lifelong endeavor for everyone.
 
 </div>
