@@ -5,24 +5,6 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Operating+Systems+Explorer;Aviation+Enthusiast)](https://git.io/typing-svg)
   -->
 
-  # Hi there 👋  
-  I'm a **CS Student** interested about Full-Stack Development, Low-Level Systems, and Aviation ✈️  
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theplaceincan&hide=vue,css,makefile&layout=compact&theme=tokyonight)
-
----
-  ### I am most familiar with these technologies:
-  <p align="left">
-    <a href="">
-      <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,vue,next,nodejs,git" />
-    </a>
-  </p>
-
-  ### I have also used:
-  <p align="left">
-    <a href="">
-      <img src="https://skillicons.dev/icons?i=c,java,rust,lua,aws,flutter,react" />
-    </a>
-  </p>
+  ### Hi there 👋  
 
 </div>
