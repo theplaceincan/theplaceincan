@@ -5,8 +5,8 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Operating+Systems+Explorer;Aviation+Enthusiast)](https://git.io/typing-svg)
   -->
 
-Learning is a lifelong endeavor for everyone.
+<p>Learning is a lifelong endeavor for everyone.</p>
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-Computer Science and Mathematics Student
+<p>Computer Science and Mathematics Student</p>
 
 </div>
