@@ -7,6 +7,5 @@
 
 <p>Learning is a lifelong endeavor for everyone.</p>
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-<p>- Computer Science and Mathematics Student</p>
-<p>- C++, TypeScript, JavaScript, Python</p>
+<p>• Computer Science and Mathematics Student <br/> • C++, TypeScript, JavaScript, Python</p>
 </div>
