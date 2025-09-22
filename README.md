@@ -5,4 +5,4 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Operating+Systems+Explorer;Aviation+Enthusiast)](https://git.io/typing-svg)
   -->
 
-<p>Persistence in perseverance</p>
+<p>Persistence, perseverance</p>
