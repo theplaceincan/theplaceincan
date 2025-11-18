@@ -6,7 +6,7 @@
   -->
 
 # Hello!
-I'm a third-year computer science student, interested in exploring backend, frontend, machine learning, and building robust, innovative applications.
+I'm a third-year computer science student, interested in exploring backend, frontend, machine learning, embedded/systems, and building robust, innovative applications.
 
 ## 🧠 Tech Stack
 
