@@ -1,5 +1,4 @@
-<div align="left">
-
-Pursuing a Bachelors of Science in Computer Science and a Minor in Mathematics at UNLV
+Computer Science, Mathematics Minor  
+University of Nevada, Las Vegas
 
 [Portfolio](https://www.abrahaatsbeha.com)
