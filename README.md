@@ -1,5 +1,4 @@
 <div align="left">
 
-UNLV Computer Science and Mathematics student
-
+Pursuing a Bachelors of Science in Computer Science, Minor in Mathematics
 [Portfolio](https://www.abrahaatsbeha.com)
